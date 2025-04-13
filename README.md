@@ -1,44 +1,6 @@
 <div align="center">
-  <img height="275" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhscms0a3YzcmRzM2plbDNyNmFxeGwxaGltcXN2bmM1N3d1ajE3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yrjLjEMxFic0hJxnCk/giphy.gif" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 </div>
-
-<style>
-  .typewriter h1 {
-    overflow: hidden;
-    border-right: .15em solid #E4405F;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-    color: #fff;
-    font-size: 2.5rem;
-    max-width: 90vw;
-    box-sizing: border-box;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #E4405F }
-  }
-
-  /* Responsiveness */
-  @media (max-width: 768px) {
-    .typewriter h1 {
-      font-size: 2rem;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .typewriter h1 {
-      font-size: 1.5rem;
-    }
-  }
-</style>
 
 <div class="typewriter" align="center">
   <h1>
